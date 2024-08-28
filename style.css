@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(211, 176, 176);
+    color:rgb(67, 0, 130);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    text-align: right;
+    width: 300px;
+    margin: auto;
+    background-color:rgb(78, 127, 129);
+    padding: 20px;
+    border: 1px solid #000000;
+}
